@@ -14,4 +14,4 @@ The user inputs their swimming level, the race they want to train for, and the w
 # The Interface
 
 <img 
-src=https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/437/557/datas/gallery.jpg' title='Home Page' width='' alt='Home Page' />
+src='https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/437/557/datas/gallery.jpg' title='Home Page' width='' alt='Home Page' />
